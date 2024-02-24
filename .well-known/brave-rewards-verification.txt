@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: futbollibre.azurewebsites.net
+Token: 48800ca453da81f99923967ba839b188034c666b97bd335cdd836f2fd75e549d
